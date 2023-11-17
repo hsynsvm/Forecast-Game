@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\ForDongusuOdev\bin\Debug\ForDongusuOdev.exe.config
+C:\Users\ramse\source\repos\ForDongusuOdev\bin\Debug\ForDongusuOdev.exe
+C:\Users\ramse\source\repos\ForDongusuOdev\bin\Debug\ForDongusuOdev.pdb
+C:\Users\ramse\source\repos\ForDongusuOdev\obj\Debug\ForDongusuOdev.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\ForDongusuOdev\obj\Debug\ForDongusuOdev.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\ForDongusuOdev\obj\Debug\ForDongusuOdev.exe
+C:\Users\ramse\source\repos\ForDongusuOdev\obj\Debug\ForDongusuOdev.pdb
